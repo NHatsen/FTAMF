@@ -30,12 +30,19 @@ There's a Save button in the Image tab (you have to select an image before getti
 
 ## Dependencies
 
-Following Nuget Packages are needed to compile the project:
+The following Nuget Packages are needed to compile the project:
 
 - DockPanelSuite by Weifen Luo
 - OpenMcfd by ironfede
 
-Project was originally created with Visual Studio Community 2019, using C# and .NET framework 4.5.2. 
+Two additional packages were added to be able to compile an standalone executable file:
+
+- MSBuild.ILMerge.TAsk by Alexander Nosenko
+- ILMerge by mbarnett
+
+The project was originally created with Visual Studio Community 2019, using C# and .NET framework 4.5.2.
+
+ 
 
 ## Version History
 
