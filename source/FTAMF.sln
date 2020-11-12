@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTAMF", "FTAMF\FTAMF.csproj", "{D35199EE-08CE-4540-BA96-E65F156A6AB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35199EE-08CE-4540-BA96-E65F156A6AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35199EE-08CE-4540-BA96-E65F156A6AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35199EE-08CE-4540-BA96-E65F156A6AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35199EE-08CE-4540-BA96-E65F156A6AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A14FB897-04D3-4FFB-97F1-7438478E99AB}
+	EndGlobalSection
+EndGlobal
