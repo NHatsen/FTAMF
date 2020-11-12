@@ -42,7 +42,11 @@ Two additional packages were added to be able to compile an standalone executabl
 
 The project was originally created with Visual Studio Community 2019, using C# and .NET framework 4.5.2.
 
- 
+##  Binary files
+
+Windows binaries are available in the Release section. Usually the same file is compiled to run on x86 and x64 machines.
+
+![FTAMF_02](docs/FTAMF_03.png "FTAMF Running on WinXP")
 
 ## Version History
 
